@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "استوديو أبو كيان" },
+    { "path": "/owner", "title": "لوحة التحكم" },
+    { "path": "/owner/inbox", "title": "صندوق الرسائل" },
+    { "path": "/free-sites", "title": "المواقع والخدمات" },
+    { "path": "/creative-space", "title": "مساحتك الإبداعية" },
+    { "path": "/custom/:slug", "title": "صفحة مخصصة" },
+    { "path": "/templates/gemini", "title": "تصاميم عبر Gemini وChatGPT" },
+    { "path": "/templates/chat-gbt", "title": "تصاميم الأطفال" }
+  ]
+}
